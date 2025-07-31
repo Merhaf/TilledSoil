@@ -57,9 +57,8 @@
 			<Beauty>0</Beauty>
 			<WorkToBuild>85</WorkToBuild>
 		</statBases>
-		<fertility>2.0</fertility>
+		<fertility>1.4</fertility>
 		<avoidWander>true</avoidWander>
-		<terrainAffordanceNeeded>GrowSoil</terrainAffordanceNeeded>
 	</TerrainDef>
 
 	<!--		Deprecated		-->
